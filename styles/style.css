@@ -62,8 +62,8 @@ body .wrapper .main {
   flex-grow: 1;
 }
 body .wrapper .main .about-me {
-  margin-bottom: 200px;
-  min-height: 900px;
+  margin-bottom: 100px;
+  min-height: 800px;
   display: flex;
   align-items: center;
 }
@@ -98,8 +98,8 @@ body .wrapper .main .about-me__block-image {
   min-width: 500px;
 }
 body .wrapper .main .technologies {
-  margin-bottom: 200px;
-  min-height: 900px;
+  margin-bottom: 100px;
+  min-height: 800px;
   display: flex;
   align-items: center;
 }
@@ -107,7 +107,7 @@ body .wrapper .main .technologies-title {
   text-align: center;
   margin: 50px 0;
   font-size: 48px;
-  font-weight: 900;
+  font-weight: 800;
 }
 body .wrapper .main .technologies-tab {
   width: 0 500px;
@@ -126,8 +126,8 @@ body .wrapper .main .technologies-tab__item-img {
   width: 100%;
 }
 body .wrapper .main .works {
-  margin-bottom: 200px;
-  min-height: 900px;
+  margin-bottom: 100px;
+  min-height: 800px;
   display: flex;
   align-items: center;
 }
@@ -135,7 +135,7 @@ body .wrapper .main .works-title {
   text-align: center;
   margin: 50px 0;
   font-size: 48px;
-  font-weight: 900;
+  font-weight: 800;
 }
 body .wrapper .main .works-tab {
   margin-bottom: auto ;
@@ -144,7 +144,7 @@ body .wrapper .main .works-tab {
   gap: 20px;
 }
 body .wrapper .main .works-tab__item {
-  max-height: 200px;
+  min-height: 200px;
   background-color: #ffffff;
   border: 1px solid #000000;
   border-radius: 15px;
